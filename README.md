@@ -1,9 +1,11 @@
 ## Hi there 👋
- My name is Risabh and I like to code AI agents using local LLMs,
- I was quite fascinated by how much agents can automate our daily lives, so I decided to give it a go.
- I use LanggraphJs to code my agents which is a library provided by folks at langchain.
+ My name is Risabh and I like to code AI agents using local LLMs, I was quite fascinated by how much agents can automate our daily lives, so I decided to give it a go.\
+ 
+ I use LanggraphJs to code my agents which is a library provided by folks at langchain.\
+ 
  I post mainly on my instagram channel [@risabh.codes.agents](https://www.instagram.com/risabh.codes.agents/)
- I open to working on anything and open to feedbacks/suggestions, feel free to dm on insta
+ I open to working on anything and open to feedbacks/suggestions, feel free to dm on insta.\
+ 
  If you're a beginner, you can follow from agent #1 and go to `infinity and beyond`
  that's it for me
 <!--
